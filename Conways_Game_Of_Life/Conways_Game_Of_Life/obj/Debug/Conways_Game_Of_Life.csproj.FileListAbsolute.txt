@@ -1,0 +1,10 @@
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\bin\Debug\Conways_Game_Of_Life.exe.config
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\bin\Debug\Conways_Game_Of_Life.exe
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\bin\Debug\Conways_Game_Of_Life.pdb
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\obj\Debug\Conways_Game_Of_Life.csprojAssemblyReference.cache
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\obj\Debug\Conways_Game_Of_Life.Properties.Resources.resources
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\obj\Debug\Conways_Game_Of_Life.csproj.GenerateResource.cache
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\obj\Debug\Conways_Game_Of_Life.csproj.CoreCompileInputs.cache
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\obj\Debug\Conways_Game_Of_Life.exe
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\obj\Debug\Conways_Game_Of_Life.pdb
+C:\Users\owens\RiderProjects\Conways_Game_Of_Life\Conways_Game_Of_Life\obj\Debug\Conways_Game_Of_Life.Form1.resources
